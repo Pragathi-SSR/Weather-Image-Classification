@@ -29,6 +29,16 @@ This project employs deep learning techniques and transfer learning to classify 
 ## Dataset Overview
 
 The dataset consists of images categorized into different weather conditions, including cloudy, rainy, sunny, and sunrise. Each category contains a variety of images representing the specific weather condition, contributing to a diverse and comprehensive dataset.The images were collected from https://data.mendeley.com/datasets/4drtyfjtfy/1.
+ - **Cloudy Images :**
+   ![image](https://github.com/user-attachments/assets/f2744f25-e65a-4d53-a825-9280954a727d)
+ - **Rainy Images :**
+  ![image](https://github.com/user-attachments/assets/004db807-8dae-4ed5-9d2c-5a9d97460ce4)
+
+ - **Shine Images :**
+  ![image](https://github.com/user-attachments/assets/45c7466d-d32d-4632-8a81-66425be8a30d)
+
+ - **Sunrise Images :**
+  ![image](https://github.com/user-attachments/assets/1cd84450-caa9-4460-9151-439dd3030959)
 
 ## Tools and Techniques
 
