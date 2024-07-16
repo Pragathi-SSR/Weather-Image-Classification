@@ -51,6 +51,8 @@ The dataset consists of images categorized into different weather conditions, in
 - Transfer Learning.
 - PIL
 - Tensorflow, Keras
+- This project utilized a Kaggle notebook for leveraging free GPU resources, enabling faster processing of image classification tasks for weather conditions.
+
 
 ### Analysis
 
